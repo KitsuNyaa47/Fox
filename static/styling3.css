@@ -1,0 +1,37 @@
+body {background-color: #FECB9F;
+      text-align: center;
+      padding: 20px;}
+
+h1 {font-family: Garamond;
+    color: #000000;}
+
+h2 {font-family: Lucida Handwriting;
+    color: #FE7701;
+    font-size: 15px;}
+
+h3 {font-family: Garamond;
+    color: #000000;
+    font-size: 25px;}
+
+h4 {font-family: Garamond;
+    color: #000000;
+    font-size: 20px;}
+
+p {font-family: Garamond;
+   color: #000000;
+   font-size: 16px;}
+
+a:link,
+a:visited {color: #000000;
+           font-family: Garamond;
+           font-size: 20px;}
+
+ul {list-style-type: square;
+    font-family: Garamond;
+    color: #000000;
+    padding-left: 0;
+    margin-left: 0;
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;}
