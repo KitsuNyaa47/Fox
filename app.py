@@ -15,4 +15,4 @@ def submit():
     return render_template("submit.html", name=name, email=email)
 
 if __name__ == "__main__":
-    form_app.run(debug=True)
+    app.run(debug=True)
