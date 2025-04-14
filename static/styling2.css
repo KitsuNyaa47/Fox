@@ -1,0 +1,19 @@
+body {text-align: center;
+      background-color: #FECB9F;}
+
+h1 {font-family: Lucida Handwriting;
+    color: #000000;}
+
+h2 {font-family: Garamond;
+    color: #FE7701;}
+
+p {font-family: Garamond;
+   color: #000000;
+   font-size: 20px}
+
+a:link,
+a:visited
+        {font-family: Garamond;
+         font-size: 18px;
+         color: #000000;}
+

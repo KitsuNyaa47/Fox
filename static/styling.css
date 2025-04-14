@@ -1,0 +1,29 @@
+body {text-align: center;
+      background-color: #FECB9F;}
+
+h1 {font-family: Garamond;
+    color: #000000;}
+
+h2 {font-family: Lucida Handwriting;
+    color: #FE7701;}
+
+h3 {font-family: Garamond;
+    color: #000000;
+    font-size: 25px;}
+
+form {font-family: Garamond;
+      color: #000000;
+      padding: 20px;}
+
+button {font-family: Garamond;
+        font-size: 20px;
+        }
+
+input, label, button {display: block;
+                      margin: 10px auto;
+                      font-size: 20px;}
+
+button:hover {background-color: #FF7F50;
+              color: white;
+              cursor: pointer;}
+
